@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+
+
+/* clerk user buttn adjust */
+
+.cl-avatarBox{
+    width: 2rem;
+    height: 2rem;
+}
+
+/* input */
+
+input{
+    background-color: aliceblue;
+    accent-color: rgb(239, 27, 27);
+    border: 1px solid rgb(239, 27, 27);
+}
